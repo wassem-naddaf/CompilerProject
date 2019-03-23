@@ -1,0 +1,15 @@
+int fun(int a,int b)
+{
+    int x=0;
+    y=x;
+    for(int j=0;j<=10;j++)
+    {
+        int i=0,j=0;
+        if(j>5)
+        {
+             c=0;
+        }
+
+    }
+    return q;
+}
